@@ -10,6 +10,12 @@
 
 # production
 /build
+<<<<<<< HEAD
+=======
+# package-lock.json
+# package.json
+# README.md
+>>>>>>> a928e5027c8981b09e8974f414132e1f0ca8f88b
 
 # misc
 .DS_Store
